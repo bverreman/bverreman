@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Benoît Verreman</h1>
 <h3 align="center">A passionate developer in neuro-informatics</h3>
-<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/TerrificIdioticBeagle-mobile.mp4”>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
 - 🔭 I’m currently working on **ANTS Registration**
 
