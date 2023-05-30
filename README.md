@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Benoît Verreman</h1>
-<h3 align="center">A passionate developer in Python>
+<h3 align="center">A passionate developer in Python
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
 
 - 🔭 I’m currently working on **ANTS Registration**
